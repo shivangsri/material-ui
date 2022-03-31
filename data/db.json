@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "Office Meeting",
+      "detail": "Meeting at 3 pm...",
+      "category": "Reminder",
+      "id": 4
+    },
+    {
+      "title": "Mohan BIRTHDAY",
+      "detail": "today is the day",
+      "category": "Birthday",
+      "id": 5
+    },
+    {
+      "title": "Assignment",
+      "detail": "have to submit assignment",
+      "category": "TODO",
+      "id": 6
+    }
+  ]
+}
