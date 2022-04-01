@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Before running this app on system type a JSON command in terminal of app folder "json-server --watch data/db.json --port 4000".
+
 ![Screenshot 2022-03-31 at 11 50 56 AM](https://user-images.githubusercontent.com/54947159/160990477-5d5866dd-1a43-4f3d-b601-b64c6129c918.png)
 
 ![Screenshot 2022-03-31 at 11 50 23 AM](https://user-images.githubusercontent.com/54947159/160990404-a465712c-9a16-46d5-8b1b-5a7ea2789661.png)
